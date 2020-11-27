@@ -1,0 +1,2 @@
+# DataWareHousing-Mining_SocialEnggAttack_prediction
+the development of the Prediction of type-Social-Engineering Attacks was successuful by the graphical and analysis from Chi-Square Test and visuaized the Result to predict one-of-the-attack( Expoit, Fuzzer, DOS, Reconnaissance, Generic, BackDoor attack, Shell-Code attack, Worms minor attack) based on the above graph we are able to decide the particular IP address addressing the attacks issue from one of these.
